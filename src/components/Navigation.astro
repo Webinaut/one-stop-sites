@@ -1,0 +1,42 @@
+---
+import DownIcon from "./QuillInlineDown.astro";
+---
+
+<nav class="main-nav">
+  <ul>
+    <li>
+      <a href="/">Home</a>
+    </li>
+    <li>
+      <a href="#">
+        <label for="sm1" title="Open Sub-menu" class="drop-icon"
+          >Martin <DownIcon />
+        </label>
+      </a>
+      <input type="checkbox" class="dropdown" id="sm1" />
+      <aside>
+        <ul class="sub-menu martin">
+          <li><a href="/about-me">About Me</a></li>
+          <li><a href="/testimonials">Testimonials</a></li>
+        </ul>
+      </aside>
+    </li>
+    <li>
+      <a href="#">
+        <label for="sm2" title="Open Sub-menu" class="drop-icon"
+          >Developer <DownIcon />
+        </label>
+      </a>
+      <input type="checkbox" class="dropdown" id="sm2" />
+      <aside>
+        <ul class="sub-menu dev">
+          <li><a href="/portfolio">Portfolio</a></li>
+          <li><a href="/services">Services</a></li>
+        </ul>
+      </aside>
+    </li>
+    <li>
+      <a href="/contact">Contact Me</a>
+    </li>
+  </ul>
+</nav>

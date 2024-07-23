@@ -1,12 +1,15 @@
 ---
+// import Footer from "../components/Footer.astro";
 import Layout from "../layouts/Layout.astro";
 import fpcard1 from "../images/fp-card1.jpg?url";
 import fpcard2 from "../images/fp-card2.jpg?url";
 import fpcard3 from "../images/fp-card3.jpg?url";
+
+// const title = "Martin Slack";
 ---
 
 <Layout>
-  <div class="main">
+  <div class="container main">
     <article>
       <p>
         I’m the owner at One Stop Sites as well as a freelance Web Developer. I
@@ -20,8 +23,8 @@ import fpcard3 from "../images/fp-card3.jpg?url";
         usually be found doing outdoor jobs on our rural property, flyfishing or
         playing golf.
       </p>
-      <p><a href="/about-me">More About Me</a></p>
-      <p><a href="/portfolio">My Portfolio</a></p>
+      <p>More About Me</p>
+      <p>My Portfolio</p>
     </article>
   </div>
   <h2 style="text-align:center">Services</h2>
@@ -40,7 +43,9 @@ import fpcard3 from "../images/fp-card3.jpg?url";
           existing theme.
         </p>
         <footer>
-          <a href="/services" role="button" class="outline">Read More</a>
+          <button>
+            <a href="/services">Read More</a>
+          </button>
         </footer>
       </article>
     </div>
@@ -58,7 +63,9 @@ import fpcard3 from "../images/fp-card3.jpg?url";
           site.
         </p>
         <footer>
-          <a href="/services" role="button" class="outline">Read More</a>
+          <button>
+            <a href="/services">Read More</a>
+          </button>
         </footer>
       </article>
     </div>
@@ -77,7 +84,9 @@ import fpcard3 from "../images/fp-card3.jpg?url";
           website traffic.
         </p>
         <footer>
-          <a href="/services" role="button" class="outline">Read More</a>
+          <button>
+            <a href="/services">Read More</a>
+          </button>
         </footer>
       </article>
     </div>
@@ -93,10 +102,12 @@ import fpcard3 from "../images/fp-card3.jpg?url";
       text-align: left;
     }
   }
-  button a {
-    text-decoration: none;
+  button {
+    width: 50%;
+    & a {
+      text-decoration: none;
+    }
   }
-
   .fp > header,
   .fp > footer {
     border: none;

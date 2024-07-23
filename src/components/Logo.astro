@@ -1,0 +1,29 @@
+<div class="logo">
+  <a href="/">
+    <h1 class="siteTitle">One Stop Sites</h1>
+    <h3 class="sitetagLine">THINKING MADE VISUAL</h3>
+  </a>
+</div>
+<style lang="scss">
+  .logo a {
+    text-align: center;
+    display: block;
+    text-decoration: none;
+    & .siteTitle {
+      font-size: 1.7rem;
+      font-weight: 400;
+      color: var(--pico-primary);
+      margin: 0;
+    }
+    & .sitetagLine {
+      font-size: 1rem;
+      font-weight: 400;
+      color: var(--pico-primary-inverse);
+      margin: 0;
+    }
+    &:hover .siteTitle,
+    &:hover .sitetagLine {
+      color: var(--pico-primary-hover);
+    }
+  }
+</style>
