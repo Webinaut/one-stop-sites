@@ -5,7 +5,6 @@ description: "Growing Hydroponic Tomatoes"
 ranking: 5
 hero: "/port-images/murphyfresh_header.png"
 tags: ["portfolio"]
-layout: "../../layouts/MarkdownPostLayout.astro"
 ---
 
 ## Growing Hydroponic Tomatoes

@@ -5,7 +5,6 @@ description: "Member-focused Golf Club"
 ranking: 2
 hero: "/port-images/Ringwood-Golf-Club-Page-Header.png"
 tags: ["portfolio"]
-layout: "../../layouts/MarkdownPostLayout.astro"
 ---
 
 ## Member-focused Golf Club

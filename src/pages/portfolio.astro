@@ -1,35 +1,35 @@
 ---
 import Layout from "../layouts/Layout.astro";
-const allPosts = await Astro.glob("./portfolio/*.md");
-allPosts.sort((b, a) => b.frontmatter.ranking - a.frontmatter.ranking);
+import { getCollection } from "astro:content";
+import BlogPost from "../components/BlogPost.astro";
+import Header from "../components/Header.astro";
+import Footer from "../components/Footer.astro";
+const allPosts = await getCollection("portfolio");
 const pageTitle = "Portfolio";
 ---
 
-<Layout pageTitle={pageTitle}>
-  <ul>
-    {
-      allPosts.map((post) => (
-        <li>
-          <h2>{post.frontmatter.title}</h2>
-          {post.frontmatter.hero && (
-            <img
-              loading="lazy"
-              src={post.frontmatter.hero}
-              alt={post.frontmatter.title}
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <meta name="viewport" content="width=device-width" />
+    <meta name="generator" content={Astro.generator} />
+    <title>{pageTitle}</title>
+  </head>
+  <body>
+    <Layout pageTitle={pageTitle}>
+      <ul>
+        {
+          allPosts.map((post) => (
+            <BlogPost
+              url={`/portfolio/${post.slug}/`}
+              title={post.data.title}
+              description={post.data.description}
+              hero={post.data.hero}
             />
-          )}
-          <p>{post.frontmatter.description}</p>
-          <p>{post.frontmatter.slug}</p>
-          <p>{post.frontmatter.tags}</p>
-          <a href={post.url}>Read more</a>
-          <a href={post.url}>{post.frontmatter.title}</a>
-        </li>
-      ))
-    }
-  </ul>
-</Layout>
-<style>
-  li {
-    list-style: none;
-  }
-</style>
+          ))
+        }
+      </ul>
+    </Layout>
+  </body>
+</html>

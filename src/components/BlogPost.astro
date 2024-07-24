@@ -1,21 +1,10 @@
 ---
-export interface Props {
-  title: string;
-  description: string;
-  hero: string;
-}
-
-const { title, description, hero } = Astro.props;
+const { title, url, tags, hero, description } = Astro.props;
 ---
 
 <article>
-  <section>
-    <!-- Image -->
-    {hero && <img loading="lazy" src={hero} alt={title} />}
-  </section>
-
-  <!-- Content -->
-  <section>
-    <slot />
-  </section>
+  <img loading="lazy" src={hero} alt={title} />
+  <h2>{title}</h2>
+  <p>{description}</p>
+  <a href={url} role="button" class="outline">View Project</a>
 </article>

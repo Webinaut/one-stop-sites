@@ -5,7 +5,6 @@ description: "Legitimate Home-Based Business Ideas"
 ranking: 12
 hero: "/port-images/homebizzguide_header.png"
 tags: ["portfolio"]
-layout: "../../layouts/MarkdownPostLayout.astro"
 ---
 
 ## Legitimate Home-Based Business Ideas

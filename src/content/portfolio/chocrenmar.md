@@ -5,7 +5,6 @@ description: "Marketing Artisan Chocolate Products"
 ranking: 7
 hero: "/port-images/chocrenmar_header.png"
 tags: ["portfolio"]
-layout: "../../layouts/MarkdownPostLayout.astro"
 ---
 
 ### Marketing Artisan Chocolate Products

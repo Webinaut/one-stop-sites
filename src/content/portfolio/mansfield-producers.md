@@ -5,7 +5,6 @@ description: "Promoting The Growth Of Local Producers"
 ranking: 9
 hero: "/port-images/mansfieldproducers_header.png"
 tags: ["portfolio"]
-layout: "../../layouts/MarkdownPostLayout.astro"
 ---
 
 ## Promoting The Growth Of Local Producers

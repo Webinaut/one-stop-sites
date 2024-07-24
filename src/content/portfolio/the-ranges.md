@@ -5,7 +5,6 @@ description: "Events, Functions, Restaurant and Bar Venue"
 ranking: 1
 hero: "/port-images/rangesmansfield.png"
 tags: ["portfolio"]
-layout: "../../layouts/MarkdownPostLayout.astro"
 ---
 
 ### Events, Functions, Restaurant and Bar Venue

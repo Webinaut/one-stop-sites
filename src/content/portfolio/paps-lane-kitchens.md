@@ -5,7 +5,6 @@ description: "Custom Kitchens and Bathrooms"
 ranking: 4
 hero: "/port-images/Paps-Lane-Kitchens-Header.png"
 tags: ["portfolio"]
-layout: "../../layouts/MarkdownPostLayout.astro"
 ---
 
 ## Custom Kitchens and Bathrooms

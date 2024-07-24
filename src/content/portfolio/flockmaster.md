@@ -5,7 +5,6 @@ description: "Promoting Transfer Printing Services"
 ranking: 13
 hero: "/port-images/flockmaster_header.png"
 tags: ["portfolio"]
-layout: "../../layouts/MarkdownPostLayout.astro"
 ---
 
 ### Promoting Transfer Printing Services
