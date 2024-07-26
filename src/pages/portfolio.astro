@@ -23,7 +23,7 @@ const pageTitle = "Portfolio";
         {
           allPosts.map((post) => (
             <BlogPost
-              url={`/portfolio/${post.slug}/`}
+              url={`/${post.slug}/`}
               title={post.data.title}
               description={post.data.description}
               hero={post.data.hero}
