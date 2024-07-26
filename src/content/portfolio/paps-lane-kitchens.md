@@ -3,7 +3,7 @@ title: "Paps Lane Kitchens"
 slug: "paps-lane-kitchens"
 description: "Custom Kitchens and Bathrooms"
 ranking: 4
-hero: "/port-images/Paps-Lane-Kitchens-Header.png"
+hero: "src/assets/images/Paps-Lane-Kitchens-Header.png"
 tags: ["portfolio"]
 ---
 

@@ -3,7 +3,7 @@ title: "Mansfield Producers Inc."
 slug: "mansfield-producers"
 description: "Promoting The Growth Of Local Producers"
 ranking: 9
-hero: "/port-images/mansfieldproducers_header.png"
+hero: "src/assets/images/mansfieldproducers_header.png"
 tags: ["portfolio"]
 ---
 

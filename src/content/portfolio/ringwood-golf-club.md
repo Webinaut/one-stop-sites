@@ -3,7 +3,7 @@ title: "The Ringwood Golf Club"
 slug: "ringwood-golf-club"
 description: "Member-focused Golf Club"
 ranking: 2
-hero: "/port-images/Ringwood-Golf-Club-Page-Header.png"
+hero: "src/assets/images/Ringwood-Golf-Club-Page-Header.png"
 tags: ["portfolio"]
 ---
 
