@@ -3,7 +3,7 @@ title: The Ranges
 slug: the-ranges
 description: Events, Functions, Restaurant and Bar Venue
 ranking: 1
-hero: src/assets/images/rangesmansfieldheader.png
+hero: src/assets/images/smashinglogo-_preview-2-.png
 tags:
   - portfolio
 ---
