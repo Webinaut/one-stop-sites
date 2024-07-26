@@ -1,10 +1,11 @@
 ---
-title: "The Ranges"
-slug: "the-ranges"
-description: "Events, Functions, Restaurant and Bar Venue"
+title: The Ranges
+slug: the-ranges
+description: Events, Functions, Restaurant and Bar Venue
 ranking: 1
-hero: "/port-images/rangesmansfield.png"
-tags: ["portfolio"]
+hero: src/assets/images/rangesmansfieldheader.png
+tags:
+  - portfolio
 ---
 
 ### Events, Functions, Restaurant and Bar Venue
