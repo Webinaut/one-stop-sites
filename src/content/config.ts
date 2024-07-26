@@ -7,6 +7,7 @@ const portfolioCollection = defineCollection({
     title: z.string(),
     description: z.string(),
     hero: z.string(),
+    ranking: z.number(),
     tags: z.array(z.string()),
   }),
 });
