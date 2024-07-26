@@ -25,3 +25,4 @@ collections:
       - { label: "Post Image", name: "hero", widget: "image" }
       - { label: "Tags", name: "tags", widget: "list", default: ["portfolio"] }
       - { label: "Body", name: "body", widget: "markdown" }
+    sortable_fields: ["title", "ranking", "tags"]
