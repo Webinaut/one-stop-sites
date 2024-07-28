@@ -3,7 +3,7 @@ title: "Murphy Fresh and Tatura Fresh"
 slug: "murphyfresh"
 description: "Growing Hydroponic Tomatoes"
 ranking: 5
-hero: ../../src/assets/images/murphyfresh_header.png
+hero: ../../../assets/images/murphyfresh_header.png
 tags: ["portfolio"]
 ---
 

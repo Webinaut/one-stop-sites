@@ -3,7 +3,7 @@ title: "Home Business Guide"
 slug: "homebizzguide"
 description: "Legitimate Home-Based Business Ideas"
 ranking: 12
-hero: ../../src/assets/images/homebizzguide_header.png
+hero: ../../../assets/images/homebizzguide_header.png
 tags: ["portfolio"]
 ---
 
