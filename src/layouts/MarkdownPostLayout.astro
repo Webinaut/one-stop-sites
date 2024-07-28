@@ -1,9 +1,10 @@
 ---
 import Layout from "./Layout.astro";
+import { Image } from "astro:assets";
 const { frontmatter } = Astro.props;
 ---
 
 <Layout pageTitle={frontmatter.title}>
-  <img src={frontmatter.hero} alt={frontmatter.title} />
+  <Image src={frontmatter.hero} alt={frontmatter.title} />
   <slot />
 </Layout>
