@@ -1,8 +1,9 @@
 ---
 import Layout from "../layouts/Layout.astro";
-import fpcard1 from "../../assets/images/fp-card1.jpg?url";
-import fpcard2 from "../../assets/images/fp-card2.jpg?url";
-import fpcard3 from "../../assets/images/fp-card3.jpg?url";
+import { Image } from "astro:assets";
+import fpcard1 from "/assets/images/fp-card1.jpg";
+import fpcard2 from "/assets/images/fp-card2.jpg";
+import fpcard3 from "/assets/images/fp-card3.jpg";
 ---
 
 <Layout>
@@ -30,7 +31,7 @@ import fpcard3 from "../../assets/images/fp-card3.jpg?url";
       <article class="fp">
         <header>
           <a href="/">
-            <img src={fpcard1} alt="Website Design And Development" />
+            <Image src={fpcard1} alt="Website Design And Development" />
           </a>
         </header>
         <h3>Website Design And Development</h3>
@@ -48,7 +49,7 @@ import fpcard3 from "../../assets/images/fp-card3.jpg?url";
       <article class="fp">
         <header>
           <a href="/">
-            <img src={fpcard2} alt="E-commerce" />
+            <Image src={fpcard2} alt="E-commerce" />
           </a>
         </header>
         <h3>E-commerce</h3>
@@ -66,7 +67,7 @@ import fpcard3 from "../../assets/images/fp-card3.jpg?url";
       <article class="fp">
         <header>
           <a href="/">
-            <img src={fpcard3} alt="Website Hosting And Maintenance
+            <Image src={fpcard3} alt="Website Hosting And Maintenance
 " />
           </a>
         </header>
