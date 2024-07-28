@@ -1,10 +1,10 @@
 ---
 const { title, url, tags, hero, description } = Astro.props;
-import { Image } from "astro:assets";
 ---
 
 <article>
-  <img loading="lazy" src={hero} alt={title} />
+  <img src={hero} alt={title} />
+  <!-- <img loading="lazy" src={hero} alt={title} /> -->
   <h2>{title}</h2>
   <p>{description}</p>
   <a href={url} role="button" class="outline">View Project</a>

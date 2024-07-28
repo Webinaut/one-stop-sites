@@ -3,7 +3,7 @@ title: "The Mansfield Shearing Shed"
 slug: "mansfield-shearing-shed"
 description: "Traditional Barber Shop"
 ranking: 6
-hero: ../../../assets/images/The-Mansfield-Shearing-Shed-Page-Header.png
+hero: /assets/images/The-Mansfield-Shearing-Shed-Page-Header.png
 tags: ["portfolio"]
 ---
 

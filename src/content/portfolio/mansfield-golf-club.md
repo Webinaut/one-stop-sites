@@ -3,7 +3,7 @@ title: "Mansfield Golf Club"
 slug: "mansfield-golf-club"
 description: "Beautiful High Country Golf Course"
 ranking: 8
-hero: ../../../assets/images/mansfieldgolfclub_header.png
+hero: /assets/images/mansfieldgolfclub_header.png
 tags: ["portfolio"]
 ---
 

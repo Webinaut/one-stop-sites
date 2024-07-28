@@ -3,7 +3,7 @@ title: "Flockmaster"
 slug: "flockmaster"
 description: "Promoting Transfer Printing Services"
 ranking: 13
-hero: ../../../assets/images/flockmaster_header.png
+hero: /assets/images/flockmaster_header.png
 tags: ["portfolio"]
 ---
 

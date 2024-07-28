@@ -3,7 +3,7 @@ title: "Mansfield Producers Marketplace"
 slug: "mansfield-producers-marketplace"
 description: "Marketing Artisan Chocolate Products"
 ranking: 10
-hero: ../../../assets/images/Home-Mansfield-Producers-Marketplace-Page-Header.png
+hero: /assets/images/Home-Mansfield-Producers-Marketplace-Page-Header.png
 tags: ["portfolio"]
 ---
 
