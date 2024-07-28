@@ -3,7 +3,7 @@ title: "Strathbogie Flavours"
 slug: "strathbogie-flavours"
 description: "The Flavours Of The Strathbogie Ranges"
 ranking: 3
-hero: "src/assets/images/Home-Strathbogie-Flavours.png"
+hero: ../../src/assets/images/Home-Strathbogie-Flavours.png
 tags: ["portfolio"]
 ---
 
