@@ -20,6 +20,9 @@ const { pageTitle } = Astro.props;
       rel="stylesheet"
     />
     <title>{pageTitle}</title>
+    <script>
+      import "../scripts/menu.js";
+    </script>
     <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"
     ></script>
   </head>
@@ -31,7 +34,7 @@ const { pageTitle } = Astro.props;
     </div>
     <Footer />
     <script>
-      import "../scripts/menu.js";
+      // import "../scripts/menu.js";
       declare global {
         interface Window {
           netlifyIdentity: any;
