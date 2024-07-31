@@ -1,9 +1,11 @@
 ---
 title: "Home Business Guide"
-slug: "homebizzguide"
 description: "Legitimate Home-Based Business Ideas"
 ranking: 12
 hero: /assets/images/homebizzguide_header.png
+desktop: /assets/images/chocrenmar_desktop.png
+mobile: /assets/images/chocrenmar_mobile.png
+summary: "Chocolaterie RenMar is an artisan chocolate producer based near Mansfield, Victoria, Australia. The website showcases its products, services and activities as well as featuring an online retail and wholesale shop."
 tags: ["portfolio"]
 ---
 

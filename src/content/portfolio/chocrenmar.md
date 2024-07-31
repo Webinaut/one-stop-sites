@@ -1,9 +1,11 @@
 ---
 title: "Chocolaterie RenMar"
-slug: "chocrenmar"
 description: "Marketing Artisan Chocolate Products"
 ranking: 7
 hero: /assets/images/chocrenmar_header.png
+desktop: /assets/images/chocrenmar_desktop.png
+mobile: /assets/images/chocrenmar_mobile.png
+summary: "Chocolaterie RenMar is an artisan chocolate producer based near Mansfield, Victoria, Australia. The website showcases its products, services and activities as well as featuring an online retail and wholesale shop."
 tags: ["portfolio"]
 ---
 

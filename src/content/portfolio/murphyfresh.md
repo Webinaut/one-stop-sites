@@ -1,9 +1,11 @@
 ---
 title: "Murphy Fresh and Tatura Fresh"
-slug: "murphyfresh"
 description: "Growing Hydroponic Tomatoes"
 ranking: 5
 hero: /assets/images/murphyfresh_header.png
+desktop: /assets/images/chocrenmar_desktop.png
+mobile: /assets/images/chocrenmar_mobile.png
+summary: "Chocolaterie RenMar is an artisan chocolate producer based near Mansfield, Victoria, Australia. The website showcases its products, services and activities as well as featuring an online retail and wholesale shop."
 tags: ["portfolio"]
 ---
 

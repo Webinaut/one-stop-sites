@@ -1,9 +1,11 @@
 ---
 title: "Paps Lane Kitchens"
-slug: "paps-lane-kitchens"
 description: "Custom Kitchens and Bathrooms"
 ranking: 4
 hero: /assets/images/Paps-Lane-Kitchens-Header.png
+desktop: /assets/images/chocrenmar_desktop.png
+mobile: /assets/images/chocrenmar_mobile.png
+summary: "Chocolaterie RenMar is an artisan chocolate producer based near Mansfield, Victoria, Australia. The website showcases its products, services and activities as well as featuring an online retail and wholesale shop."
 tags: ["portfolio"]
 ---
 
