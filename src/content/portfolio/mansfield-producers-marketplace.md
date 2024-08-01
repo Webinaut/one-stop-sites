@@ -2,7 +2,7 @@
 title: "Mansfield Producers Marketplace"
 description: "Marketing Artisan Chocolate Products"
 ranking: 10
-hero: /assets/images/Home-Mansfield-Producers-Marketplace-Page-Header.png
+hero: /assets/images/Mansfield-Producers-Marketplace-Page-Header.png
 desktop: /assets/images/chocrenmar_desktop.png
 mobile: /assets/images/chocrenmar_mobile.png
 summary: "Chocolaterie RenMar is an artisan chocolate producer based near Mansfield, Victoria, Australia. The website showcases its products, services and activities as well as featuring an online retail and wholesale shop."

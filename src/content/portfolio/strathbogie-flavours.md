@@ -2,7 +2,7 @@
 title: "Strathbogie Flavours"
 description: "The Flavours Of The Strathbogie Ranges"
 ranking: 3
-hero: /assets/images/Home-Strathbogie-Flavours.png
+hero: /assets/images/Strathbogie-Flavours.png
 desktop: /assets/images/chocrenmar_desktop.png
 mobile: /assets/images/chocrenmar_mobile.png
 summary: "Chocolaterie RenMar is an artisan chocolate producer based near Mansfield, Victoria, Australia. The website showcases its products, services and activities as well as featuring an online retail and wholesale shop."
