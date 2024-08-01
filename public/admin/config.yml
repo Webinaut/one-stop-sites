@@ -25,6 +25,7 @@ collections:
       - { label: "Post Image", name: "hero", widget: "image" }
       - { label: "Desktop Image", name: "desktop", widget: "image" }
       - { label: "Mobile Image", name: "mobile", widget: "image" }
+      - { label: "Portfolio Page Summary", name: "summary", widget: "string" }
       - { label: "Tags", name: "tags", widget: "list", default: ["portfolio"] }
       - { label: "Body", name: "body", widget: "markdown" }
     sortable_fields: ["title", "ranking", "tags"]
