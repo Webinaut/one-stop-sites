@@ -2,14 +2,12 @@
 title: Royal Park Golf Club
 description: Inner City Golf Club
 ranking: 3.5
-hero: /assets/images/Ringwood-Golf-Club-Page-Header.png
-desktop: /assets/images/Ringwood-Golf-Club.png
-mobile: /assets/images/Committee-–-Home-of-Ringwood-Golf-Club-Mobile.png
-summary: The Ringwood Golf Club is a long-established golf club located in the
-  eastern suburbs of Melbourne. It required a modern Wordpress website to
-  replace its outdated html website. Its primary purpose is to cater for the
-  needs of members rather than marketing the golf course, pro shop or
-  restaurant.
+hero: /assets/images/royal-park-golf-club_header.png
+desktop: /assets/images/royal-park-golf-club_desktop.png
+mobile: /assets/images/royal-park-golf-club_mobile.png
+summary: Royal Park Golf Club is a long-established golf club located in
+  Parkville, an inner suburb of Melbourne. It required a website to attract new
+  members and provide information to existing members.
 tags:
   - portfolio
 ---
