@@ -89,9 +89,12 @@ a[role="button"] {
   justify-content: space-between;
   background-color: var(--pico-primary-background);
   padding: 20px;
-  & img {
-    height: 35px;
-    vertical-align: middle;
+  // & img {
+  //   height: 35px;
+  //   vertical-align: middle;
+  // }
+  &.wide-body {
+    background-color: var(--pico-primary-inverse);
   }
 }
 
