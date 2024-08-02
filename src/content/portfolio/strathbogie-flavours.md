@@ -1,12 +1,18 @@
 ---
-title: "Strathbogie Flavours"
-description: "The Flavours Of The Strathbogie Ranges"
+title: Strathbogie Flavours
+description: The Flavours Of The Strathbogie Ranges
 ranking: 3
 hero: /assets/images/Strathbogie-Flavours.png
-desktop: /assets/images/chocrenmar_desktop.png
-mobile: /assets/images/chocrenmar_mobile.png
-summary: "Chocolaterie RenMar is an artisan chocolate producer based near Mansfield, Victoria, Australia. The website showcases its products, services and activities as well as featuring an online retail and wholesale shop."
-tags: ["portfolio"]
+desktop: /assets/images/strathflavours.com_.au_.png
+mobile: /assets/images/strathflavours.com-mobile.png
+summary: The Strathbogie Flavours brand was created as part of the website
+  development project. Prior to the launch of the new brand and website, the
+  business had a plethora of somewhat disconnected brands, including Ripe
+  Delight, Lake Nillacootie Farmhouse, Marraweeny Olives and Mount Buller Olive
+  Oil. These brands were rationalised under the umbrella brand name “Strathbogie
+  Flavours” and are now marketed on a single website, strathflavours.com.au.
+tags:
+  - portfolio
 ---
 
 ## The Flavours Of The Strathbogie Ranges

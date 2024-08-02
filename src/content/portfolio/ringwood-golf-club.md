@@ -1,12 +1,17 @@
 ---
-title: "The Ringwood Golf Club"
-description: "Member-focused Golf Club"
+title: The Ringwood Golf Club
+description: Member-focused Golf Club
 ranking: 2
 hero: /assets/images/Ringwood-Golf-Club-Page-Header.png
-desktop: /assets/images/chocrenmar_desktop.png
-mobile: /assets/images/chocrenmar_mobile.png
-summary: "Chocolaterie RenMar is an artisan chocolate producer based near Mansfield, Victoria, Australia. The website showcases its products, services and activities as well as featuring an online retail and wholesale shop."
-tags: ["portfolio"]
+desktop: /assets/images/Ringwood-Golf-Club.png
+mobile: /assets/images/Committee-–-Home-of-Ringwood-Golf-Club-Mobile.png
+summary: The Ringwood Golf Club is a long-established golf club located in the
+  eastern suburbs of Melbourne. It required a modern Wordpress website to
+  replace its outdated html website. Its primary purpose is to cater for the
+  needs of members rather than marketing the golf course, pro shop or
+  restaurant.
+tags:
+  - portfolio
 ---
 
 ## Member-focused Golf Club
