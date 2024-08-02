@@ -4,7 +4,7 @@ description: Events, Functions, Restaurant and Bar Venue
 ranking: 1
 hero: /assets/images/rangesmansfieldheader.png
 desktop: /assets/images/rangesmansfield.com_.au_events_.png
-mobile: /assets/images/chocrenmar_mobile.png
+mobile: /assets/images/rangesmansfield.com_.au_mobile.png
 summary: Following the redevelopment of the Mansfield Golf Club clubhouse, the
   emphasis of the club’s business changed from a golf focus to a balance between
   golf on the one hand, and dining, functions and events on the other. The
