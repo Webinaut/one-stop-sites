@@ -1,12 +1,16 @@
 ---
-title: "Mansfield Golf Club"
-description: "Beautiful High Country Golf Course"
+title: Mansfield Golf Club
+description: Beautiful High Country Golf Course
 ranking: 8
 hero: /assets/images/mansfieldgolfclub_header.png
-desktop: /assets/images/chocrenmar_desktop.png
-mobile: /assets/images/chocrenmar_mobile.png
-summary: "Chocolaterie RenMar is an artisan chocolate producer based near Mansfield, Victoria, Australia. The website showcases its products, services and activities as well as featuring an online retail and wholesale shop."
-tags: ["portfolio"]
+desktop: /assets/images/mansfieldgolfclub_desktop.png
+mobile: /assets/images/mansfieldgolfclub_mobile.png
+summary: Mansfield Golf Club is a regional golf club based in the High Country,
+  200km northeast of Melbourne, Australia. The website provides for the range of
+  differing needs of board members, playing members, golf visitors and users of
+  club facilities, like the restaurant.
+tags:
+  - portfolio
 ---
 
 ## Beautiful High Country Golf Course
