@@ -1,12 +1,16 @@
 ---
-title: "Murphy Fresh and Tatura Fresh"
-description: "Growing Hydroponic Tomatoes"
+title: Murphy Fresh and Tatura Fresh
+description: Growing Hydroponic Tomatoes
 ranking: 5
 hero: /assets/images/murphyfresh_header.png
-desktop: /assets/images/chocrenmar_desktop.png
-mobile: /assets/images/chocrenmar_mobile.png
-summary: "Chocolaterie RenMar is an artisan chocolate producer based near Mansfield, Victoria, Australia. The website showcases its products, services and activities as well as featuring an online retail and wholesale shop."
-tags: ["portfolio"]
+desktop: /assets/images/murphyfresh_desktop.png
+mobile: /assets/images/murphyfresh_mobile.png
+summary: Murphy Fresh and Tatura Fresh are amongst Australia’s most successful
+  hydroponic tomato growing farms. The company had a ten-year-old website,
+  created using an early content management system, called Silverstripe. It
+  wished to replace it with a more contemporary Wordpress website.
+tags:
+  - portfolio
 ---
 
 ## Growing Hydroponic Tomatoes
