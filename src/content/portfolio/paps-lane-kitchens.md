@@ -1,12 +1,17 @@
 ---
-title: "Paps Lane Kitchens"
-description: "Custom Kitchens and Bathrooms"
+title: Paps Lane Kitchens
+description: Custom Kitchens and Bathrooms
 ranking: 4
 hero: /assets/images/Paps-Lane-Kitchens-Header.png
-desktop: /assets/images/chocrenmar_desktop.png
-mobile: /assets/images/chocrenmar_mobile.png
-summary: "Chocolaterie RenMar is an artisan chocolate producer based near Mansfield, Victoria, Australia. The website showcases its products, services and activities as well as featuring an online retail and wholesale shop."
-tags: ["portfolio"]
+desktop: /assets/images/Paps-Lane-Kitchens-Desktop.png
+mobile: /assets/images/Paps Lane Kitchens Mobile.png
+summary: Kevin, of Paps Lane Kitchens is a local, Mansfield-based, qualified
+  cabinet maker with more than 40 years’ experience. Together with his partner,
+  Pam, he covers all aspects of cabinetry, providing complete kitchens,
+  renovations to kitchens, bathroom or laundry vanities, outdoor kitchens,
+  wardrobes, custom made units, built-in cupboards and more.
+tags:
+  - portfolio
 ---
 
 ## Custom Kitchens and Bathrooms
