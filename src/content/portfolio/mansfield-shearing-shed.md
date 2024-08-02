@@ -1,12 +1,15 @@
 ---
-title: "The Mansfield Shearing Shed"
-description: "Traditional Barber Shop"
+title: The Mansfield Shearing Shed
+description: Traditional Barber Shop
 ranking: 6
 hero: /assets/images/Shearing-Shed-Page-Header.png
-desktop: /assets/images/chocrenmar_desktop.png
-mobile: /assets/images/chocrenmar_mobile.png
-summary: "Chocolaterie RenMar is an artisan chocolate producer based near Mansfield, Victoria, Australia. The website showcases its products, services and activities as well as featuring an online retail and wholesale shop."
-tags: ["portfolio"]
+desktop: /assets/images/Shearing-Shed-—-Traditional-Father-Daughter-Barber-Shop.png
+mobile: /assets/images/Shearing-Shed-Mobile.png
+summary: The Shearing Shed is a traditional barber shop located in Mansfield,
+  Victoria. The website showcases its look and feel, as well as its services. It
+  features an online booking facility used by the business operators.
+tags:
+  - portfolio
 ---
 
 ## Traditional Barber Shop
