@@ -5,6 +5,7 @@ document.querySelector(".hamburger").addEventListener("click", () => {
 });
 
 // Set active class on nav when the page is active
+
 const nav = document.querySelector(".main-nav");
 const navLinks = nav.querySelectorAll("a");
 const currentURL = window.location.href;
@@ -20,3 +21,9 @@ navLinks.forEach((link) => {
     }
   }
 });
+// const breadnav = document.querySelector(".c-breadcrumbs__crumb");
+// const breadLinks = breadnav.querySelectorAll("a");
+
+// breadLinks.forEach((blink) => {
+//   console.log({ blink }, blink);
+// });
