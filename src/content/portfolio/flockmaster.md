@@ -1,12 +1,15 @@
 ---
-title: "Flockmaster"
-description: "Promoting Transfer Printing Services"
+title: Flockmaster
+description: Promoting Transfer Printing Services
 ranking: 13
 hero: /assets/images/flockmaster_header.png
-desktop: /assets/images/chocrenmar_desktop.png
-mobile: /assets/images/chocrenmar_mobile.png
-summary: "Chocolaterie RenMar is an artisan chocolate producer based near Mansfield, Victoria, Australia. The website showcases its products, services and activities as well as featuring an online retail and wholesale shop."
-tags: ["portfolio"]
+desktop: /assets/images/flockmaster_desktop.png
+mobile: /assets/images/flockmaster_mobile.png
+summary: Flockmaster is a specialist transfer printing company based in
+  Melbourne, Australia. Its website showcases its wide range of services and
+  provides several ways of engaging with the company.
+tags:
+  - portfolio
 ---
 
 ### Promoting Transfer Printing Services
