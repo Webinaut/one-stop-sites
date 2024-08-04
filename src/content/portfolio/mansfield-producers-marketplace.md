@@ -1,12 +1,16 @@
 ---
-title: "Mansfield Producers Marketplace"
-description: "Marketing Artisan Chocolate Products"
+title: Mansfield Producers Marketplace
+description: Marketing Artisan Chocolate Products
 ranking: 10
 hero: /assets/images/Mansfield-Producers-Marketplace-Page-Header.png
-desktop: /assets/images/chocrenmar_desktop.png
-mobile: /assets/images/chocrenmar_mobile.png
-summary: "Chocolaterie RenMar is an artisan chocolate producer based near Mansfield, Victoria, Australia. The website showcases its products, services and activities as well as featuring an online retail and wholesale shop."
-tags: ["portfolio"]
+desktop: /assets/images/mansfieldproducers.shop_store-list_.png
+mobile: /assets/images/mansfieldproducers.shop_shop_alicelangtons_iPhone-6_7_8-Plus.png
+summary: Mansfield Producers Incorporated (MPI) supports and develops the growth
+  and success of producers within and around the Mansfield Shire. Its online
+  multi-vendor marketplace provides members with individual shops to showcase
+  and sell their products.
+tags:
+  - portfolio
 ---
 
 ## Marketing Artisan Chocolate Products
