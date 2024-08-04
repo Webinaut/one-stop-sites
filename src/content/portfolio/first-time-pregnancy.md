@@ -1,12 +1,17 @@
 ---
-title: "First Time Pregnancy"
-description: "Advising Mothers-To-Be"
+title: First Time Pregnancy
+description: Advising Mothers-To-Be
 ranking: 11
 hero: /assets/images/ftp_header.png
-desktop: /assets/images/chocrenmar_desktop.png
-mobile: /assets/images/chocrenmar_mobile.png
-summary: "Chocolaterie RenMar is an artisan chocolate producer based near Mansfield, Victoria, Australia. The website showcases its products, services and activities as well as featuring an online retail and wholesale shop."
-tags: ["portfolio"]
+desktop: /assets/images/ftp_desktop.png
+mobile: /assets/images/ftp_mobile.png
+summary: First Time Pregnancy provides pregnant women (and their partners) with
+  information about their pregnancy. It features an online quiz which scores the
+  indicators of pregnancy probability and produces an estimate of the likelihood
+  of pregnancy. It also has a pregnancy infographic (with both desktop and
+  mobile versions) as well as a partner Android app.
+tags:
+  - portfolio
 ---
 
 ### Advising Mothers-To-Be
