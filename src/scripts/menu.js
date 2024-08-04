@@ -9,8 +9,6 @@ const nav = document.querySelector(".main-nav");
 const navLinks = nav.querySelectorAll("a");
 const currentURL = window.location.href;
 navLinks.forEach((link) => {
-  console.log("link", link.href);
-  console.log("currentURL", currentURL);
   if (link.href === currentURL) {
     link.classList.add("active");
     // Highlight Sub-menu Label if Sub-Menu Active
