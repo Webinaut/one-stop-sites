@@ -1,12 +1,17 @@
 ---
-title: "Mansfield Producers Inc."
-description: "Promoting The Growth Of Local Producers"
+title: Mansfield Producers Inc.
+description: Promoting The Growth Of Local Producers
 ranking: 9
 hero: /assets/images/mansfieldproducers_header.png
-desktop: /assets/images/chocrenmar_desktop.png
-mobile: /assets/images/chocrenmar_mobile.png
-summary: "Chocolaterie RenMar is an artisan chocolate producer based near Mansfield, Victoria, Australia. The website showcases its products, services and activities as well as featuring an online retail and wholesale shop."
-tags: ["portfolio"]
+desktop: /assets/images/mansfieldproducers_desktop.png
+mobile: /assets/images/mansfieldproducers_mobile.png
+summary: Mansfield Producers Incorporated (MPI) supports and develops the growth
+  and success of producers within and around the Mansfield Shire as well as
+  promoting and developing a thriving agri-tourism sector to enable visitors to
+  the region to have an authentic food, wine, local produce, stay and play
+  experience.
+tags:
+  - portfolio
 ---
 
 ## Promoting The Growth Of Local Producers
