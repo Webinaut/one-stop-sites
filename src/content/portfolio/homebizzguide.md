@@ -1,12 +1,16 @@
 ---
-title: "Home Business Guide"
-description: "Legitimate Home-Based Business Ideas"
+title: Home Business Guide
+description: Legitimate Home-Based Business Ideas
 ranking: 12
 hero: /assets/images/homebizzguide_header.png
-desktop: /assets/images/chocrenmar_desktop.png
-mobile: /assets/images/chocrenmar_mobile.png
-summary: "Chocolaterie RenMar is an artisan chocolate producer based near Mansfield, Victoria, Australia. The website showcases its products, services and activities as well as featuring an online retail and wholesale shop."
-tags: ["portfolio"]
+desktop: /assets/images/homebizz_desktop.png
+mobile: /assets/images/homebizz_mobile.png
+summary: The Legitimate Home-based Business Guide is a website providing ideas
+  and guidance to people seeking to earn an income from home. It features a
+  content curation blog which houses articles feed by RSS feeds from other
+  relevant sites.
+tags:
+  - portfolio
 ---
 
 ## Legitimate Home-Based Business Ideas
