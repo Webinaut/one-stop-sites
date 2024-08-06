@@ -50,8 +50,9 @@ import "../styles/astro-breadcrumbs-config.scss";
 </div>
 <style define:vars={{ fphero: `url(${fphero.src})` }}>
   .fp-header {
+    position: relative;
+    /* z-index: -2; */
     flex-flow: row wrap;
-    /* width: 100%; */
     height: 500px;
     background-image: var(--fphero);
     background-size: cover;
