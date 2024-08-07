@@ -221,6 +221,7 @@ nav li,
     display: none;
   }
   .main-nav.expanded {
+    z-index: 1;
     background: var(--pico-primary-inverse);
     padding: 0.5em;
     border: solid var(--pico-primary);
