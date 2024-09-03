@@ -120,7 +120,8 @@ nav li,
   display: none;
 }
 .container.bread {
-  margin: 1em 0 0.5em;
+  margin: 0;
+  padding: 1em 8%;
 }
 @media only screen and (min-width: 769px) {
   nav > ul > li > a,
