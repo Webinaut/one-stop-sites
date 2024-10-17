@@ -1,13 +1,11 @@
 ---
-layout: ../../layouts/MarkdownPostLayout.astro
 title: Mansfield Anglican Parish
 description: Country Anglican Parish With Two Churches
 ranking: 2.5
 hero: /assets/images/mansfield-anglican-parish_header.png
 desktop: /assets/images/mansfield-anglican-parish_desktop.png
 mobile: /assets/images/mansfield-anglican-parish_mobile.png
-summary: >-
-  Mansfield Anglican Parish covers the Victorian towns of Mansfield and
+summary: Mansfield Anglican Parish covers the Victorian towns of Mansfield and
   Jamieson. It had a somewhat formal website built with a traditional theme
   framework.
 
