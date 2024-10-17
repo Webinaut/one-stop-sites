@@ -11,7 +11,6 @@ summary: Royal Park Golf Club is a long-established golf club located in
 tags:
   - portfolio
 ---
-
 ## Inner City Parkland Golf Club
 
 [https://royalparkgolfclub.com.au](https://royalparkgolfclub.com.au/)
@@ -36,17 +35,17 @@ Astra Pro theme was used and customised to ensure that the club's brand colours 
 
 Photographic content was provided by the club. Where appropriate photos were not available, stock photos were used.
 
-The website has quickly established itself as number two in the Royal Park golf rankings, closely behind the YMCA website. It is hosted, supported and maintained by One Stop Sites. This includes hosting on a Litespeed server, regular regular backups and theme and plugin updates.
+The website has quickly established itself as number two in the Royal Park golf rankings, closely behind the YMCA website. It is hosted, supported and maintained by One Stop Sites. This includes hosting on a Litespeed server, regular backups and theme and plugin updates.
 
 ### Main Features
 
-- Theme customisation.
-- CSS customisation.
-- Photograph processing
-- Image editing, colours, typography
-- Responsive design
-- Content uploading and organisation
-- Responsive design
-- Site security
-- Google Analytics
-- Automated backups
+* Theme customisation.
+* CSS customisation.
+* Photograph processing
+* Image editing, colours, typography
+* Responsive design
+* Content uploading and organisation
+* Responsive design
+* Site security
+* Google Analytics
+* Automated backups
