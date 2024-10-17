@@ -6,8 +6,7 @@ ranking: 2.5
 hero: /assets/images/Mansfield-Anglican-Parish_header.jpg
 desktop: /assets/images/Mansfield-Anglican-Parish_desktop.jpg
 mobile: /assets/images/Mansfield-Anglican-Parish_mobile.jpg
-summary: >-
-  Mansfield Anglican Parish covers the Victorian towns of Mansfield and
+summary: Mansfield Anglican Parish covers the Victorian towns of Mansfield and
   Jamieson. It had a somewhat formal website built with a traditional theme
   framework.
 
@@ -15,6 +14,7 @@ summary: >-
 tags:
   - portfolio
 ---
+
 ## Country Anglican Parish
 
 <https://mansfieldanglicanparish.com.au/>
@@ -31,7 +31,7 @@ Recognising that there was an opportunity to replace the website with a more mod
 
 ### The Solution
 
-Whilst maintaining the legacy website, Martin had discussions with the Parish Priests and Church Councillors over an extended period of time about a possible website replacement. 
+Whilst maintaining the legacy website, Martin had discussions with the Parish Priests and Church Councillors over an extended period of time about a possible website replacement.
 
 He decided, of his own volition, to build a new website and offer it to the church as a replacement. Whilst the content remains largely as it was, the way it is now presented is quite different.
 
@@ -43,13 +43,13 @@ The website has received positive feedback from parishioners. It is hosted, supp
 
 ### Main Features
 
-* Theme customisation.
-* CSS customisation.
-* Photograph processing
-* Image editing, colours, typography
-* Responsive design
-* Content uploading and organisation
-* Responsive design
-* Site security
-* Google Analytics
-* Automated backups
+- Theme customisation.
+- CSS customisation.
+- Photograph processing
+- Image editing, colours, typography
+- Responsive design
+- Content uploading and organisation
+- Responsive design
+- Site security
+- Google Analytics
+- Automated backups
