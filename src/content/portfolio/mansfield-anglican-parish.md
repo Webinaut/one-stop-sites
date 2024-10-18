@@ -26,13 +26,13 @@ The Parish had a legacy website, for which One Stop Sites took over the hosting 
 
 The website wasbeing used to provide information about church locations and services to visitors as well as advertising parish events.
 
-Recognising that there was an opportunity to replace the website with a more modern and less formal design, One Stop Sites developed a replacement as a gratuitous donation to the church.
+Recognising that there was an opportunity to replace the website with a more modern and less formal design, One Stop Sites developed a replacement as a donation to the church.
 
 ### The Solution
 
-Whilst maintaining the legacy website, Martin had discussions with the Parish Priests and Church Councillors over an extended period of time about a possible website replacement.
+Whilst maintaining the legacy website, Martin had discussions with the Parish Priests and Church Councillors about a possible website replacement.
 
-He decided, of his own volition, to build a new website and offer it to the church as a replacement. Whilst the content remains largely as it was, the way it is now presented is quite different.
+He decided to build a new website and offer it to the church as a replacement. Whilst the content remains largely as it was, the way it is now presented is quite different.
 
 Astra Pro theme was used and customised using a softer colour palette. Given that a substantial proportion of parishioners uses mobile phones to access the website, close attention was paid to responsive design to ensure a mobile-friendly layout.
 
