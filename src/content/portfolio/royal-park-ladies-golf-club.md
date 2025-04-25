@@ -12,21 +12,23 @@ summary: Royal Park Ladies Golf Club is a ladies golf club located in Parkville,
 tags:
   - portfolio
 ---
-## Inner City Parkland Golf Club
+## Inner City Ladies Golf Club
 
-[https://royalparkgolfclub.com.au](https://royalparkgolfclub.com.au/)
+[https://royalparkladiesgolfclub.com.au](https://royalparkladiesgolfclub.com.au/)
 
 ### The Brief
 
-Royal Park Golf Club is a long-established golf club located in Parkville, just north of the Melbourne CBD. Its members play at the Royal Park Golf Course, a public golf course owned by the City of Melbourne and operated by Greenspace Management.
+Royal Park Ladies Golf Club is a ladies golf club located in Parkville, just north of the Melbourne CBD. Its members play at the Royal Park Golf Course, a public golf course owned by the City of Melbourne and operated by Greenspace Management.
 
-The club operates alongside two other golf clubs - Royal Park Ladies Golf Club and Royal Park Veterans Golf Club. Both of these clubs have had websites for years, as has Royal Park Golf Course, whose website is run by the YMCA as part of their Active Melbourne contract.
+The club operates alongside two other golf clubs - Royal Park Golf Club and Royal Park Veterans Golf Club. Both of these clubs have websites, as has Royal Park Golf Course, whose website is run by the YMCA as part of their Active Melbourne contract.
 
-Royal Park Golf Club had no website.
+Royal Park Ladies Golf Club had a Joomla website which had not been maintained or upgraded for some time. It had stopped functioning for technical reasons.
 
-The club wished to acquire a website to grow it's membership and provide a service to current members.
+The club wished to replace its website to grow it's membership and provide a service to current members.
 
 ### The Solution
+
+
 
 Following a detailed briefing from club leadership, several website options were offered. These ranged from a simple HTML website to a fully-fledged Wordpress website with extensive functionality.
 
