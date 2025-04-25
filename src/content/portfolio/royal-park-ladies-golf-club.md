@@ -5,9 +5,10 @@ ranking: 0.5
 hero: /assets/images/royal-park-ladies-golf-club-header.png
 desktop: /assets/images/royal-park-ladies-golf-club-desktop.png
 mobile: /assets/images/royal-park-ladies-golf-club-mobile.png
-summary: Royal Park Golf Club is a long-established golf club located in
-  Parkville, an inner suburb of Melbourne. It required a website to attract new
-  members and provide information to existing members.
+summary: Royal Park Ladies Golf Club is a ladies golf club located in Parkville,
+  an inner suburb of Melbourne. It wished to replace its outdated website with a
+  more modern one aimed at attracting new members as well as providing
+  information to existing members.
 tags:
   - portfolio
 ---
