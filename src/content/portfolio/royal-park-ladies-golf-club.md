@@ -28,27 +28,19 @@ The club wished to replace its website to grow it's membership and provide a ser
 
 ### The Solution
 
+The Joomla website was somewhat dated in terms of design and functionality. It was decided to replace it with one built using Astro, a modern web framework optimised for building fast, content-driven websites.
 
+The content on the previous website focused on documents, rules and policies. After discussion about what visitors and members were looking for when using the website, it was decided to focus on user-orientated content. This includes both photographic and text content, such as membership information. Both were provided by the club.
 
-Following a detailed briefing from club leadership, several website options were offered. These ranged from a simple HTML website to a fully-fledged Wordpress website with extensive functionality.
-
-The club opted for a middle option comprising a Wordpress website covering all the essential golf club requirements. 
-
-Astra Pro theme was used and customised to ensure that the club's brand colours were adhered to. Given that the majority of members use mobile phones to access the website, close attention was paid to responsive design to ensure a mobile-friendly layout.
-
-Photographic content was provided by the club. Where appropriate photos were not available, stock photos were used.
-
-The website has quickly established itself as number two in the Royal Park golf rankings, closely behind the YMCA website. It is hosted, supported and maintained by One Stop Sites. This includes hosting on a Litespeed server, regular backups and theme and plugin updates.
+The website is hosted, supported and maintained by One Stop Sites. This includes cloud hosting and content updates.
 
 ### Main Features
 
-* Theme customisation.
+* Image slideshows.
 * CSS customisation.
 * Photograph processing
 * Image editing, colours, typography
 * Responsive design
 * Content uploading and organisation
-* Responsive design
-* Site security
-* Google Analytics
-* Automated backups
+* Google Analytics and reporting
+
