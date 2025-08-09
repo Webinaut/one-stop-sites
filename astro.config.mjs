@@ -7,4 +7,5 @@ export default defineConfig({
   trailingSlash: "always",
   site: "https://onestopsites.net.au",
   integrations: [sitemap()],
+  output: "server",
 });
