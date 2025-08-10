@@ -1,20 +1,17 @@
 ---
+import { getCollection, render } from "astro:content";
 import MarkdownPostLayout from "../../layouts/MarkdownPostLayout.astro";
 
-// SSR Code
-import { getEntry, render } from "astro:content";
-// 1. Get the slug from the incoming server request
-const { slug } = Astro.params;
-if (slug === undefined) {
-  throw new Error("Slug is required");
+export async function getStaticPaths() {
+  const blogEntries = await getCollection("portfolio");
+
+  return blogEntries.map((entry) => ({
+    params: { slug: entry.id },
+    props: { entry },
+  }));
 }
-// 2. Query for the entry directly using the request slug
-const entry = await getEntry("portfolio", slug);
-// 3. Redirect if the entry does not exist
-if (entry === undefined) {
-  return Astro.redirect("/404");
-}
-// End SSR Code
+
+const { entry } = Astro.props;
 const { Content } = await render(entry);
 ---
 

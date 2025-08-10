@@ -6,7 +6,6 @@ import Header from "../components/Header.astro";
 import Footer from "../components/Footer.astro";
 const allPosts = await getCollection("portfolio");
 allPosts.sort((b, a) => b.data.ranking.valueOf() - a.data.ranking.valueOf());
-// console.log(allPosts.map((post) => post.slug));
 const pageTitle = "Portfolio";
 ---
 
