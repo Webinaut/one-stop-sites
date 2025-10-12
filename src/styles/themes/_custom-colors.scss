@@ -14,3 +14,51 @@
   // --pico-primary-inverse: #f5f5f5;
   --pico-muted-border-color: var(--pico-primary-hover);
 }
+/* Automatically enabled if user has Dark mode enabled */
+@media only screen and (prefers-color-scheme: dark) {
+  :root:not([data-theme]),
+  :host:not([data-theme]) {
+    --pico-color: #fff;
+  }
+  .sub-menu.martin,
+  .sub-menu.dev {
+    background-color: var(--pico-primary-background);
+  }
+  .hellobar-content > span {
+    color: var(--pico-primary-background);
+  }
+  .fp {
+    background-color: var(--pico-primary-background);
+    > header {
+      background-color: var(--pico-color);
+    }
+  }
+  @media only screen and (max-width: 768px) {
+    .main-nav.expanded {
+      background-color: var(--pico-primary-background) !important;
+    }
+  }
+}
+/* Enabled if forced with data-theme="dark" */
+[data-theme="dark"] {
+  --pico-color: #fff;
+
+  .sub-menu.martin,
+  .sub-menu.dev {
+    background-color: var(--pico-primary-background);
+  }
+  .hellobar-content > span {
+    color: var(--pico-primary-background);
+  }
+  .fp {
+    background-color: var(--pico-primary-background);
+    > header {
+      background-color: var(--pico-color);
+    }
+  }
+  @media only screen and (max-width: 768px) {
+    .main-nav.expanded {
+      background-color: var(--pico-primary-background) !important;
+    }
+  }
+}

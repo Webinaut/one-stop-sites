@@ -1,0 +1,117 @@
+---
+import QuillEscape from "./QuillEscape.astro";
+import QuillInlineDown from "./QuillInlineDown.astro";
+---
+
+<a href="#" class="hellobar-toggle">
+  <div class="hellobar-esc show"><QuillEscape /></div>
+  <div class="hellobar-down"><QuillInlineDown /></div>
+</a>
+<div id="hellobar" class="hellobar show">
+  <div class="hellobar-wrap">
+    <div class="hellobar-content">
+      <span>Clubs and Organisations - Members' Real Needs</span><a
+        href="https://memberfeedback.com.au"
+        role="button"
+        target="_blank">Details Here</a
+      >
+    </div>
+  </div>
+</div>
+<style lang="scss">
+  /**
+ * Notifications
+ */
+  .hellobar {
+    background-color: var(--pico-primary-hover);
+    color: var(--pico-color);
+    font-size: 0.8em;
+    display: none;
+  }
+  .hellobar.show {
+    display: block;
+  }
+  .hellobar a {
+    color: var(--pico-primary-inverse);
+    text-decoration: none;
+    font-weight: bold;
+  }
+  .hellobar a[role="button"] {
+    color: var(--pico-primary-inverse);
+    font-size: 0.9em;
+    padding: 0.1em 0.3em;
+    margin: 0 1em;
+    font-weight: normal;
+  }
+  .hellobar a:hover {
+    color: var(--pico-color);
+    text-decoration: none;
+  }
+  .hellobar-wrap {
+    position: relative;
+    margin: 0 auto;
+    width: 100%;
+    max-width: 960px;
+  }
+  .hellobar-content {
+    text-align: center;
+    overflow: hidden;
+    padding: 7px 0;
+    transition: 0.1s ease;
+    font-size: 1.5em;
+    color: var(--pico-color);
+  }
+  .hellobar-toggle {
+    position: absolute;
+    top: 0;
+    right: 0.5em;
+    bottom: 0;
+    z-index: 99;
+    min-width: 9px;
+    min-height: 17px;
+    max-height: 4em;
+    opacity: 1;
+    cursor: pointer;
+    padding: 0.3em;
+    background-color: var(--pico-background-color);
+  }
+  .hellobar-esc {
+    display: none;
+    color: var(--pico-primary-inverse);
+  }
+  .hellobar-esc.show {
+    background-color: var(--pico-background-color);
+    display: block;
+  }
+  .hellobar-down {
+    color: var(--pico-primary-inverse);
+    display: none;
+  }
+  .hellobar-down.show {
+    display: block;
+    background-color: var(--pico-primary-background);
+  }
+  .show {
+    display: unset;
+  }
+  @media screen and (max-width: 768px) {
+    .hellobar-wrap {
+      width: 75%;
+    }
+    .hellobar-esc {
+      right: 0.5em;
+    }
+    .hellobar-down.show {
+      transform: translateX(-40vw);
+      padding: 0;
+    }
+  }
+</style>
+<script>
+  // Toggle Hellobar
+  document.querySelector(".hellobar-toggle")!.addEventListener("click", () => {
+    document.querySelector(".hellobar-esc")!.classList.toggle("show");
+    document.querySelector(".hellobar-down")!.classList.toggle("show");
+    document.querySelector(".hellobar")!.classList.toggle("show");
+  });
+</script>
